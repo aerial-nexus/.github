@@ -1,0 +1,10 @@
+{
+  "name": ".NET CI/CD Pipeline with CodeQL",
+  "description": "Compila, prueba, analiza con CodeQL y publica artefactos y releases para proyectos en C# (.NET).",
+  "iconName": "octicon zap",
+  "categories": ["ci", "code-scanning", "deployment", "C#"],
+  "filePatterns": [
+        ".*\\.cs$",
+        ".*\\.csproj$"
+    ]
+}
